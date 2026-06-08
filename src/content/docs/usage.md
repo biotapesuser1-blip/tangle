@@ -1,9 +1,5 @@
 ---
-title: Usage Guide
-sidebar: { order: 3 }
+title: "Usage"
 ---
-HeroGlyphs simplifies text animations within After Effects:
 
-- Use the "Templates" library to get started with pre-built animations.
-- Modify text properties, colors, and timing intuitively.
-- Combine multiple text animations for advanced effects.
+Explore detailed usage instructions for Heroglyphs: creating projects, using templates, and managing workflows.
